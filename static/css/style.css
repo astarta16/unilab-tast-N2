@@ -56,26 +56,21 @@ body {
 header {
     background-color: white;
     margin-bottom: 50px; 
-
-
 }
 
 a {
     color: black;
     font-size: 25px;
-    margin-right: 100px;
-    
+    margin-right: 100px; 
 }
 
 li {
     display: inline;
     margin-right: 50px;
-   
-    
 }
+
 .first-item {
-    margin-left: 600px; 
-    
+    margin-left: 600px;  
 }
 
 h2 {
@@ -85,7 +80,6 @@ h2 {
     align-items: center;
 	display: flex;
 	margin-bottom: 120px;
-
 }
 
 p,h3,span {
