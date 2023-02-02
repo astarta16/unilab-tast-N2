@@ -52,6 +52,7 @@ table {
 
 
 
+
 body {
     background-color:white;
 }
@@ -87,8 +88,8 @@ h2 {
 	font-size:40px;
 	font-weight: 400;
 	justify-content: center;
-    align-items: center;
-	display: flex;
+  align-items: center;
+	margin-left: 700px;
 	margin-bottom: 117px;
 }
 
@@ -154,12 +155,11 @@ p,h3,span {
         cursor: pointer;
         width: 118px;
         margin-top: 65px;
-		margin-left: 200px;
+		    margin-left: 200px;
         border: 1px solid #000000;
         border-radius: 4px;
         padding: 6px ; 
         font-family: 'Poppins';
-        font-style: normal;
         font-weight: 400;
         font-size: 12px;
   }
